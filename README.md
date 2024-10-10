@@ -11,6 +11,10 @@ The Recipe Optimizer’s primary goal is to improve recipes by optimizing ingred
 The recommendations provided by the Recipe Optimizer are practical and user-friendly, tailored to home cooks and culinary enthusiasts. It avoids introducing exotic ingredients or drastically changing the core identity of the dish, focusing instead on adjustments that can be made with commonly available ingredients. The insights aim to improve both the cooking process and the final outcome, making recipes more efficient, cost-effective, and enjoyable to prepare and eat. Ultimately, this GPT serves as a culinary advisor, helping users elevate their cooking by leveraging a blend of food science and accessible cooking wisdom.
 
 #
+
+![Food](https://github.com/user-attachments/assets/dc0e9b01-be3c-4f1d-bf39-6894a781e4ba)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
